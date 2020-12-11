@@ -17,6 +17,6 @@ class JsonCodeInfo
             header('Access-Control-Allow-Origin:*');
         }
         $res['status'] = $bool ? 1 : 0;
-        return response()->json($res);
+        return $res;
     }
 }
