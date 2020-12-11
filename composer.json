@@ -1,0 +1,21 @@
+{
+    "name": "willem/json-code",
+    "description": "this is json code info",
+    "type": "1",
+    "require": {
+        "php": ">=5"
+    },
+    "license": "Nginx",
+    "authors": [
+        {
+            "name": "willem",
+            "email": "1157818690@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "JsonCode\\" : "src/"
+        }
+    }
+}
