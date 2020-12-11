@@ -5,7 +5,7 @@
     "require": {
         "php": ">=5"
     },
-    "license": "Nginx",
+    "license": "MIT",
     "authors": [
         {
             "name": "willem",
